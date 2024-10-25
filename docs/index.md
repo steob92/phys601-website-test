@@ -9,7 +9,7 @@ Through meticulous investigation, I aim to elucidate the fundamental processes s
 I extend a formal welcome to all who wish to engage with the frontiers of astrophysics through the lens of my ongoing research endeavors.
 
 
-If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
+If you're like to learn more about me, you can find an introduction to [my research](./reasearch/index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
 
 ## Here is an equation
 
